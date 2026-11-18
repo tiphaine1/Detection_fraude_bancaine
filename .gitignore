@@ -1,0 +1,12 @@
+
+# Fichiers de données générés
+transactions.csv
+labels.csv
+
+# Fichiers Python temporaires
+__pycache__/
+*.pyc
+
+# Environnements virtuels
+.venv/
+venv/
